@@ -4,11 +4,11 @@
 #### Hi, my name is Sakred! I develop plugins for SCP:SL, write websites, and also do other projects.
 
 # Languages
-![C#](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=CSharp&logoColor=512BD4)
+![C#](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=sharp&logoColor=512BD4)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=777BB4)
+![java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openmediavault&logoColor=FC4C02)
 ![CSS](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
 
 # Programs
